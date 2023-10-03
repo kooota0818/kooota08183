@@ -1,4 +1,4 @@
-alert("hello,Osamu");
+alert("hello,kota");
 alert(1+1);
 alert(Math.sqrt(1+1));
 alert("1.414"+"1.732");
