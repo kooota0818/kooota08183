@@ -1,8 +1,8 @@
 function sayhello68()
 {
-alert('hello,'+document.getElementByld('who68')innerHTML+'!');
+alert('Hello,'+document.getElementById('who68')innerHTML+'!');
 }
-function taro68(){document.getElementByld('who68').innerHTML='太郎';}
-function hanako68(){document.getElementByld('who68').innerHTML='花子';}
+function taro68(){document.getElementById('who68').innerHTML='太郎';}
+function hanako68(){document.getElementById('who68').innerHTML='花子';}
 
-function gazzo688(){document.getElementByld('who688').innerHTML='<img src="./image/png-transparent-josai-university-hd-logo.png" alt="オン">';} 
+function gazzo688(){document.getElementById('who688').innerHTML='<img src="./image/png-transparent-josai-university-hd-logo.png" alt="オン">';} 
