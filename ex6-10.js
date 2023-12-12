@@ -1,4 +1,4 @@
 function imgchange1()
 {
-  document.getElementByld('logo').src='./image/josai.jo.jpg';
+  document.getElementById('logo').src='./image/josai.jo.jpg';
 }
