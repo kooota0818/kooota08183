@@ -11,5 +11,5 @@ document.timer.moji.value=str.substr(0,cnt+1);}
     //全て表示されたら、空文字に戻す
 document.timer.moji.value="";}}
 function starfnc(){
-  //関数hyoiji()を1000ミリ秒間隔で呼び出す
+  //関数hyoji()を1000ミリ秒間隔で呼び出す
 setlnterval("hyouji()",1000);}
