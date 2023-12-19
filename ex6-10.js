@@ -5,5 +5,5 @@ function imgchange1()
 
 function imgchange2() 
 {
-document.getElementById('logo').src = './image/josai.png';
+document.getElementById('logo').src = './image/keiei_small.jpg';
 }
