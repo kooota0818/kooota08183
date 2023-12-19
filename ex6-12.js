@@ -14,7 +14,7 @@ function starfnc(){
   //関数hyoji()を1000ミリ秒間隔で呼び出す
 setlnterval("hyouji()",1000);}
 
-consdt str="Mozilla";
+const str="Mozilla";
 
 console.log(str.substr(1,2));
 //expected outout:"oz"
