@@ -12,7 +12,7 @@ document.timer.moji.value=str.substr(0,cnt+1);}
 document.timer.moji.value="";}}
 function starfnc(){
   //関数hyoji()を1000ミリ秒間隔で呼び出す
-setlnterval("hyouji()",1000);}
+setlnterval("hyoji()",1000);}
 
 const str='Mozilla';
 
