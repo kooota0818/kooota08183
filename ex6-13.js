@@ -1,6 +1,6 @@
 function mes()
 {
-  alert("3秒経ちました！")；
+  alert("3秒経ちました！");
 }
 
 function hyouji13()
