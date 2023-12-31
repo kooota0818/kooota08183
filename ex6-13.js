@@ -17,4 +17,4 @@ document.timer13.moji13.value=str13.sudstr(0,cnt13+1);}else{
 //すべて表示されたら空文字に戻す
 document.timer13.moji13.value ="";}
 //seTimeout()を含む関数を呼び出す
-seTimeout("hyoji13()",1000);} 
+setTimeout("hyoji13()",1000);} 
