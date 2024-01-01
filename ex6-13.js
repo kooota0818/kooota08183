@@ -3,7 +3,7 @@ function mes()
   alert("3秒経ちました！");
 }
 
-function hyouji13()
+function hyoji13()
 {
 //表示する文字
 var str13="一文字ずつ表示します"
