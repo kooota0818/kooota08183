@@ -1,5 +1,5 @@
 function imagechange5() {
-    document.getElementById('logo3').src = './image/keiei';
+    document.getElementById('logo3').src = './image/keiei_small';
 }
 function imagechange6() {
     document.getElementById('logo3').src = './image/bird_aoitori_bluebird.png';
